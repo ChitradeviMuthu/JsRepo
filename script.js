@@ -1,0 +1,1 @@
+const Greet = "Welcome to JavaScript"
